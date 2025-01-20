@@ -1,0 +1,6 @@
+projectKey=hyper-content
+serverUrl=http://localhost:9099
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9099/dashboard?id=hyper-content
+ceTaskId=c4519fff-b52e-4e6c-a28e-7e2deaa5ad91
+ceTaskUrl=http://localhost:9099/api/ce/task?id=c4519fff-b52e-4e6c-a28e-7e2deaa5ad91
